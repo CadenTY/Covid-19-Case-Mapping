@@ -17,7 +17,7 @@ The first map: Choropleth Map for Covid Rates [Map 1 Link](https://cadenty.githu
 The Second map: Proportional Symbol Map for Covid Counts [Map 2 Link](https://cadenty.github.io/Covid-19-Case-Mapping/map2.html)
 <img width="1353" alt="Screenshot 2024-02-04 at 2 01 23 PM" src="https://github.com/CadenTY/Covid-19-Case-Mapping/assets/97286724/c184a594-d643-4cf8-9a64-181eef623b58">
 
-#Acknowledgement 
+# Acknowledgement 
 The information/data used for this lab was shared and processed to us by Steven Bao. Lab instructions were provided by Professor Bo Zhao. TA Liz Peng provided assistance during the labs completion, answering questions and helping with problem solving and troubleshooting. 
 
 
